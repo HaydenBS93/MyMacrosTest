@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Navigate to the repository
-cd /root/HaydenBS93/MyMacrosTest
+cd /root//MyMacrosTest
 
 # Use the first argument as the commit message or fallback to a default timestamp
 COMMIT_MESSAGE=${1:-"Update: $(date)"}
