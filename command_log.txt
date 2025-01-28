@@ -1,1 +1,4 @@
 [Tue Jan 28 17:25:36 UTC 2025] sudo apt install php8.3-fpm php8.3-mysql php8.3-gd php8.3-bcmath php8.3-cli php8.3-curl php8.3-mbstring php8.3-mcrypt php8.3-zip php8.3-opcache php8.3-xml
+[Tue Jan 28 17:35:32 UTC 2025] Update script
+Description: Update script to allow me to commit a title for the commit and a description explaining more detailed changes
+----------------------------------------
