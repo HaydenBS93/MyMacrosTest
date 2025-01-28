@@ -1,13 +1,17 @@
-!/bin/bash
+#!/bin/bash
 
 # Navigate to the repository
 cd /root/HaydenBS93/MyMacrosTest
 
+# Use the first argument as the commit message or fallback to a default timestamp
+COMMIT_MESSAGE=${1:-"Update: $(date)"}
+
 # Stage changes
 git add -A
 
-# Commit changes with a timestamp
-git commit -m "Update: $(date)"
+# Commit changes with the provided message
+git commit -m "$COMMIT_MESSAGE"
 
 # Push changes to GitHub
 git push origin master
+
