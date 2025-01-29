@@ -8,7 +8,7 @@ cd "$REPO_PATH" || { echo "Repository not found: $REPO_PATH"; exit 1; }
 
 # Ensure tracking of configuration files
 sudo cp /etc/nginx/sites-enabled/default ./nginx-config/default  # Adjust if needed
-sudo cp -r /var/www/html/* ./www-html/  # Backup web files
+sudo cp -r /var/www/html/* # Backup web files
 
 # Ensure both a commit message and a description are passed
 if [ -z "$1" ]; then

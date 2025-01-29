@@ -5,3 +5,6 @@ Description: Update script to allow me to commit a title for the commit and a de
 [Wed Jan 29 10:33:39 UTC 2025] Configured Nginx with PHP
 Description: Enabled PHP-FPM in Nginx and added test.php
 ----------------------------------------
+[Wed Jan 29 10:57:04 UTC 2025] Installed PHP
+Description: 
+----------------------------------------
