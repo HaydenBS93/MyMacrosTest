@@ -2,3 +2,6 @@
 [Tue Jan 28 17:35:32 UTC 2025] Update script
 Description: Update script to allow me to commit a title for the commit and a description explaining more detailed changes
 ----------------------------------------
+[Wed Jan 29 10:33:39 UTC 2025] Configured Nginx with PHP
+Description: Enabled PHP-FPM in Nginx and added test.php
+----------------------------------------
