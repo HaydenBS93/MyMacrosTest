@@ -8,3 +8,6 @@ Description: Enabled PHP-FPM in Nginx and added test.php
 [Wed Jan 29 10:57:04 UTC 2025] Installed PHP
 Description: 
 ----------------------------------------
+[Wed Feb  5 11:53:15 UTC 2025] Created README.md
+Description: Filled with dummy text for now
+----------------------------------------
