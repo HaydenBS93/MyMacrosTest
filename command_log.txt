@@ -23,3 +23,6 @@ Description: Generated new SSH key and created a README
 [Wed Feb  5 12:57:42 UTC 2025] Setup workflow
 Description: Created my github/workflow and added template text
 ----------------------------------------
+[Wed Feb  5 13:01:55 UTC 2025] Add username key
+Description: 
+----------------------------------------
