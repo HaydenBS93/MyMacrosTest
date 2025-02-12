@@ -3,7 +3,7 @@ name: Deploy LEMP & Python App
 on:
   push:
     branches:
-      - master # Runs on push to main
+      - master # Runs on push to master
 
 jobs:
   deploy:
